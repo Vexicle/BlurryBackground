@@ -3,6 +3,8 @@
 #### Features:
 - Blob follows mouse
 - Light changing colours / Spinning blob
+
+### Image:
 ![image](Snip.png)
 
 Link:
