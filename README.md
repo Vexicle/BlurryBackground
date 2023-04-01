@@ -1,7 +1,6 @@
 # BlurryBackground
 ### Live background for Lively Wallpaper or Wallpaper engine,
 #### Features:
-- Blob follows mouse
 - Light changing colours / Spinning blob
 
 ### Image:
